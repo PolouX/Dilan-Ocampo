@@ -16,19 +16,19 @@ Desarrollé un sistema completo de manejo de almacenes, facturación, envíos y 
 
 ---
 
-### 📱 App móvil para Banco de Alimentos
+### 📱 App móvil para Banco de Alimentos (https://github.com/AidFoodMX)
 
 Diseñé y programé una aplicación móvil para Android que permite registrar donaciones, llevar el inventario de alimentos, y tener un historial detallado de donadores. Los voluntarios pueden escanear productos, registrar entregas, y mantener sincronización con una base de datos central.
 
-> 🛠️ Tecnologías: Kotlin, Firebase, Firestore, Material Design
+> 🛠️ Tecnologías: React Native, Firestore
 
 ---
 
-### ✅ ToDo List + Chatbot de Telegram
+### ✅ ToDo List + Chatbot de Telegram (https://github.com/Gabo8912/oci-react-samples-team16)
 
 Construí un sistema de gestión de tareas (ToDo) que se puede usar tanto desde una página web moderna como desde un bot en Telegram. Los usuarios pueden agregar, completar y consultar tareas. El backend está desplegado en un clúster con Kubernetes para alta disponibilidad.
 
-> 🛠️ Tecnologías: Node.js, React, Telegram Bot API, MongoDB, Kubernetes
+> 🛠️ Tecnologías: Node.js, React, Telegram Bot API,, Kubernetes
 
 ---
 
