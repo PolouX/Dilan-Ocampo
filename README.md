@@ -8,11 +8,11 @@ Soy desarrollador full-stack enfocado en automatizar procesos y crear soluciones
 
 ## 🚀 Proyectos destacados
 
-### 🏭 Sistema Integral para Ferreterías
+### 🏭 Sistema Integral para Ferreterías (https://github.com/PolouX/FerreteriaFZ)
 
 Desarrollé un sistema completo de manejo de almacenes, facturación, envíos y gestión de pedidos pensado especialmente para ferreterías. El sistema automatiza el control de stock, genera facturas CFDI 4.0 con la API de Facturama, y permite realizar envíos y recepciones con escáner de código de barras. Incluye reportes y seguimiento por usuario.
 
-> 🛠️ Tecnologías: PHP, MySQL, Bootstrap, Google Apps Script, Facturama API
+> 🛠️ Tecnologías: React, JavaScript, Firestore. 
 
 ---
 
